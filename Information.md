@@ -1,6 +1,6 @@
 **Logistic Regression with Hyperparameter Tuning** 🧠📊
 
-📌**** Overview****
+📌**Overview**
 
 Logistic Regression is a supervised machine learning algorithm used for binary and multiclass classification. It predicts the probability of a data point belonging to a particular class using the logistic (sigmoid) function. The algorithm models the relationship between input features and the probability of output categories.
 
